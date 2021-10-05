@@ -1,4 +1,4 @@
-# Learn
+# I learned this from this project
 
 * iOS 어플리케이션을 Xcode를 통해 처음으로 따라 만들어본 어플이다.
 모든 것이 낯설었고, 영어 강의를 보며 따라 타이핑하기 급급했다.
@@ -7,7 +7,7 @@
 
 * SwiftUI로 시작을 해보려고 했지만 현재 대부분의 자료가 storyboard를 사용하고 있기 때문에 따라가겠다.
 
-* TodoList에 대해
+* 첫 iOS 앱 프로그래밍을 하며 학습한 기본적인 프로젝트 구조
     - AppDelegate.swift 파일은 앱의 실행주기를 관리하는 소스 코드가 포함된 클래스 파일로 앱을 실행하거나 종료, 백그라운드 실행할 때 하는 일을 관리한다.
     - SceneDelegate.swift 파일은 사용자 인터페이스의 실행주기를 관리하는 소스 코드가 포함된 클래스 파일이다.
     - ViewController.swift 파일은 화면에서 보여지는 뷰에서 처리하는 부분들에 대한 소스 코드가 포함된 클래스 파일로, 일반적으로 ViewController.swift에서 작업을 하게 되고, 뷰 하나당 클래스 하나가 대응된다.
