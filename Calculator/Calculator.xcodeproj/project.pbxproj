@@ -13,6 +13,7 @@
 		8931ECE4282A886D00059421 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8931ECE2282A886D00059421 /* Main.storyboard */; };
 		8931ECE6282A886E00059421 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8931ECE5282A886E00059421 /* Assets.xcassets */; };
 		8931ECE9282A886E00059421 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8931ECE7282A886E00059421 /* LaunchScreen.storyboard */; };
+		8976C489283374DC00F5A74A /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8976C488283374DC00F5A74A /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8931ECE5282A886E00059421 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8931ECE8282A886E00059421 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8931ECEA282A886E00059421 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8976C488283374DC00F5A74A /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8931ECDE282A886D00059421 /* SceneDelegate.swift */,
 				8931ECE0282A886D00059421 /* ViewController.swift */,
 				8931ECE2282A886D00059421 /* Main.storyboard */,
+				8976C488283374DC00F5A74A /* RoundButton.swift */,
 				8931ECE5282A886E00059421 /* Assets.xcassets */,
 				8931ECE7282A886E00059421 /* LaunchScreen.storyboard */,
 				8931ECEA282A886E00059421 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8976C489283374DC00F5A74A /* RoundButton.swift in Sources */,
 				8931ECE1282A886D00059421 /* ViewController.swift in Sources */,
 				8931ECDD282A886D00059421 /* AppDelegate.swift in Sources */,
 				8931ECDF282A886D00059421 /* SceneDelegate.swift in Sources */,
